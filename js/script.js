@@ -123,4 +123,4 @@ $(document).ready(function() {
     function hideArticles() {
       $(".article").hide(0);
     } 
-}):
+});
